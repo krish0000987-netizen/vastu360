@@ -145,6 +145,25 @@ function renderHomePage() {
       </div>
     </div>
 
+    <!-- COMPACT FOUNDER TRUST BAR -->
+    <div class="founder-compact-bar">
+      <div class="container">
+        <div class="fcb-content">
+          <div class="fcb-avatar">
+            <img src="/assets/about_founder_new.jpg" alt="Er. Pradeep Panwar" />
+          </div>
+          <div class="fcb-info">
+            <h3>Er. Pradeep Panwar</h3>
+            <p class="fcb-roles">Civil Engineer • Architect • Vastu Consultant</p>
+            <p class="fcb-skills">Scientific Vastu | Architectural Planning | Astro-Vastu</p>
+          </div>
+          <div class="fcb-action">
+             <a href="#/about" class="btn btn-outline-gold btn-sm">Read Profile</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- TRUST SECTION -->
     <section class="section trust-section">
       <div class="container">

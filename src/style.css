@@ -2984,6 +2984,71 @@ h1, h2, h3, h4, .font-cinzel {
   margin-top: 24px;
 }
 
+/* COMPACT FOUNDER TRUST BAR */
+.founder-compact-bar {
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--glass-border);
+  padding: 20px 0;
+}
+
+.fcb-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .fcb-content {
+    justify-content: flex-start;
+    text-align: left;
+  }
+  .fcb-action {
+    margin-left: auto;
+  }
+}
+
+.fcb-avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid var(--gold-400);
+  flex-shrink: 0;
+}
+
+.fcb-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.fcb-info h3 {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  color: var(--text-pure);
+  margin-bottom: 4px;
+}
+
+.fcb-roles {
+  color: var(--gold-600);
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+
+.fcb-skills {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+[data-theme="dark"] .fcb-roles {
+  color: var(--gold-400);
+}
+
 /* ==========================================================================
    MOBILE-FIRST RESPONSIVE DESIGN & TOUCH OPTIMIZATION
    ========================================================================== */

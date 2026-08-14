@@ -246,7 +246,7 @@ export const pricingPlans = [
   {
     category: "Astro Guidance",
     title: "Vedic Astrology Consultation",
-    price: "₹2,100",
+    price: "₹21,000",
     desc: "Personalized Kundli analysis covering career, marriage, finance and remedies.",
     features: [
       "Complete Birth Chart (Lagna & Navamsha) Reading",

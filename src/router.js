@@ -119,23 +119,6 @@ function renderHomePage() {
         `).join('')}
       </div>
 
-      <!-- Prominent Founder Spotlight in Hero -->
-      <div class="hero-founder-spotlight">
-        <div class="hfs-avatar-wrap">
-          <img src="/assets/founder_acharya_pankaj.jpg" alt="Er. Pradeep Panwar — Founder" class="hfs-avatar" />
-          <span class="hfs-online-badge" title="Available for Consultation"></span>
-        </div>
-        <div class="hfs-info">
-          <span class="hfs-tag"><i data-lucide="award"></i> FOUNDER & MASTER CONSULTANT</span>
-          <strong class="hfs-name">Er. Pradeep Panwar</strong>
-          <span class="hfs-desc">10+ Years Vedic Vastu & Jyotish Specialist</span>
-        </div>
-        <a href="#/book-consultation" class="hfs-cta-btn" title="Book 1-on-1 Consultation with Er. Pradeep Panwar">
-          <i data-lucide="calendar"></i>
-          <span>Consult</span>
-        </a>
-      </div>
-
       <!-- Slide Navigation Controls -->
       <button class="slide-nav-btn prev" id="slidePrevBtn" aria-label="Previous Slide"><i data-lucide="chevron-left"></i></button>
       <button class="slide-nav-btn next" id="slideNextBtn" aria-label="Next Slide"><i data-lucide="chevron-right"></i></button>
@@ -1268,7 +1251,7 @@ function renderAstrologyPage() {
       <div class="container">
         <div class="page-breadcrumb"><a href="#/">Home</a> / <span>Astrology</span></div>
         <h1 class="page-title">Vedic Astrology Consultation</h1>
-        <p class="page-subtitle">Unlock celestial insights with authentic Kundli analysis, planetary transits, and Vedic remedies.</p>
+        <p class="page-subtitle">By Expert Astrologer <strong>Pinki Panwar</strong> — Unlock celestial insights with authentic Kundli analysis, planetary transits, and Vedic remedies.</p>
         <div class="subpage-hero-visual">
           <img src="/assets/vastu_astrology.jpg" alt="Vedic Astrology Kundli Chart" />
         </div>
@@ -1312,7 +1295,7 @@ function renderAstrologyPage() {
         </div>
 
         <div class="text-center mt-5">
-          <a href="#/book-consultation" class="btn btn-gold btn-lg"><i data-lucide="calendar"></i> Book Astrology Consultation — ₹2,100</a>
+          <a href="#/book-consultation" class="btn btn-gold btn-lg"><i data-lucide="calendar"></i> Book Astrology Consultation — ₹21,000</a>
           <a href="#/horoscope" class="btn btn-outline-gold btn-lg ml-2"><i data-lucide="compass"></i> View Daily Horoscope</a>
         </div>
       </div>

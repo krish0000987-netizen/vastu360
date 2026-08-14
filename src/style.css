@@ -2595,10 +2595,11 @@ h1, h2, h3, h4, .font-cinzel {
 .gcb-text h2 {
   font-size: 2.2rem;
   margin-bottom: 10px;
+  color: #ffffff !important;
 }
 
 .gcb-text p {
-  color: var(--text-muted);
+  color: rgba(255, 255, 255, 0.85) !important;
   font-size: 1.05rem;
 }
 
@@ -3184,8 +3185,7 @@ h1, h2, h3, h4, .font-cinzel {
     font-size: 0.98rem !important;
   }
   .btn-header {
-    padding: 6px 10px !important;
-    font-size: 0.74rem !important;
+    display: none !important;
   }
   .btn-header i {
     display: none !important;

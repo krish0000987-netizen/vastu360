@@ -3918,3 +3918,14 @@ img {
     font-size: 0.85rem !important;
   }
 }
+
+@media (max-width: 480px) {
+  .sidebar-action-card {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .sidebar-action-card .btn {
+    margin-top: 0 !important;
+  }
+}

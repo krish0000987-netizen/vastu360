@@ -19,7 +19,7 @@ export const heroSlidesData = [
     headline: "Scientific Vastu & Architectural Planning",
     subheading: "Modern architecture guided by 16-Zone Shakti Chakra energy alignment and Astro-Vastu analysis.",
     badge: "16-ZONE SHAKTI CHAKRA",
-    image: "/assets/hero_slide_chakra_founder.jpg",
+    image: "/assets/hero_banner_1_new.png",
     ctaText: "Book Consultation",
     ctaLink: "#/book-consultation",
     secCtaText: "Explore Services",
@@ -38,7 +38,7 @@ export const heroSlidesData = [
     headline: "Transform Your Space. Align Your Life.",
     subheading: "Expert Vastu Shastra and Astrology guidance for homes, businesses, offices, plots and personal growth.",
     badge: "DESIGNED WITH VASTU INTELLIGENCE",
-    image: "/assets/hero_slide_1.jpg",
+    image: "/assets/hero_banner_2_new.jpg",
     ctaText: "Book Consultation",
     ctaLink: "#/book-consultation",
     secCtaText: "Explore Services",
@@ -51,7 +51,7 @@ export const heroSlidesData = [
     headline: "3D ARCHITECTURAL DESIGNS",
     subheading: "We transform ideas into stunning 3D architectural visuals that inspire and bring your vision to life.",
     badge: "ARCHITECTURAL EXCELLENCE",
-    image: "/assets/hero_slide_3.jpg",
+    image: "/assets/hero_banner_3_new.jpg",
     ctaText: "Explore Courses",
     ctaLink: "#/courses",
     secCtaText: "Book Consultation",
@@ -253,7 +253,7 @@ export const pricingPlans = [
       "Dasha Analysis & Future Timeline Predictions",
       "Career, Marriage & Wealth Forecast",
       "Gemstone, Mantra & Yantra Guidance",
-      "Direct 1-on-1 Astrologer Session (40 mins)"
+      "Direct 1-on-1 Session with Pinki Panwar (40 mins)"
     ],
     cta: "Book Astrology"
   },

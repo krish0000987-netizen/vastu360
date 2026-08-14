@@ -1291,7 +1291,7 @@ function renderAstrologyPage() {
           <div class="astro-badge-card">
             <div class="abc-icon"><i data-lucide="sun"></i></div>
             <h3>1-on-1 Confidential Reading</h3>
-            <p>Direct live consultation with senior astrologers to answer your exact personal and professional questions.</p>
+            <p>Direct live consultation with Expert Astrologer Pinki Panwar to answer your exact personal and professional questions.</p>
             <a href="#/book-consultation" class="btn btn-gold btn-block"><i data-lucide="calendar"></i> Book Astrology Session</a>
           </div>
         </div>

@@ -619,7 +619,7 @@ h1, h2, h3, h4, .font-cinzel {
 .hero-clean-slide-img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover !important;
   object-position: center;
   display: block;
   background: #06080d;
@@ -3043,8 +3043,7 @@ h1, h2, h3, h4, .font-cinzel {
   .brand-name { font-size: 1.08rem !important; }
   .brand-sub { display: none !important; }
   .btn-header {
-    padding: 8px 14px !important;
-    font-size: 0.8rem !important;
+    display: none !important;
   }
   .theme-toggle-btn {
     width: 36px !important;
@@ -3561,10 +3560,6 @@ img {
   }
 
   .btn-header {
-    padding: 7px 12px !important;
-    font-size: 0.78rem !important;
-  }
-  .btn-header i {
     display: none !important;
   }
 
@@ -3859,8 +3854,7 @@ img {
     font-size: 0.92rem !important;
   }
   .btn-header {
-    padding: 5px 8px !important;
-    font-size: 0.72rem !important;
+    display: none !important;
   }
   .hero-slideshow-container {
     height: clamp(220px, 60vw, 300px) !important;

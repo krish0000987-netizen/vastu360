@@ -813,7 +813,7 @@ function renderCoursesPage() {
                   <p class="cd-subtitle">Learn the Fundamentals of Vedic Astrology</p>
                 </div>
                 <div class="cd-price-tag">
-                  <div class="price-val">₹2,100</div>
+                  <div class="price-val">₹21,000</div>
                   <span class="price-note">4-Week Foundation</span>
                 </div>
               </div>
@@ -838,7 +838,7 @@ function renderCoursesPage() {
                 <div class="ceb-info">
                   <i data-lucide="book" class="text-gold"></i> Includes PDF Study Handouts & Kundli Reading Practice
                 </div>
-                <a href="#/book-consultation" class="btn btn-gold btn-lg"><i data-lucide="check-circle"></i> Enroll Now — ₹2,100</a>
+                <a href="#/book-consultation" class="btn btn-gold btn-lg"><i data-lucide="check-circle"></i> Enroll Now — ₹21,000</a>
               </div>
             </div>
           </div>
@@ -1908,7 +1908,7 @@ function renderContactPage() {
                   <option value="Factory & Industrial Vastu">Factory & Industrial Vastu</option>
                   <option value="Astrology / Kundli Reading">Astrology / Kundli Reading</option>
                   <option value="Vastu Consultant Course (₹21,000)">Vastu Consultant Course (₹21,000)</option>
-                  <option value="Astro Consultant Course (₹2,100)">Astro Consultant Course (₹2,100)</option>
+                  <option value="Astro Consultant Course (₹21,000)">Astro Consultant Course (₹21,000)</option>
                 </select>
               </div>
               <div class="form-group">

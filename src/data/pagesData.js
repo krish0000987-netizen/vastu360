@@ -189,8 +189,8 @@ export const coursesData = [
   {
     id: "astro-consultant",
     title: "ASTRO CONSULTANT",
-    price: "₹2,100",
-    rawPrice: 2100,
+    price: "₹21,000",
+    rawPrice: 21000,
     subtitle: "Learn the Fundamentals of Vedic Astrology",
     duration: "4 Weeks (Intensive Foundation)",
     badge: "Foundation Astro Mastery",

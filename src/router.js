@@ -320,7 +320,7 @@ function renderAboutPage() {
             <div class="about-card-logo-stamp">
               <img src="/assets/anant_vastu_official_logo_transparent.png" alt="Anant Vastu Official Logo" />
             </div>
-            <img src="/assets/vastu_blueprint.jpg" alt="Anant Vastu Architectural Blueprint and Consultation Studio" class="about-visual-img" />
+            <img src="/assets/about_founder_new.jpg" alt="Er. Pradeep Panwar - Anant Vastu Architect" class="about-visual-img" />
             <div class="about-stat-bar">
               <div class="as-item"><strong>500+</strong><span>Properties Aligned</span></div>
               <div class="as-item"><strong>100%</strong><span>Zero-Demolition Focus</span></div>

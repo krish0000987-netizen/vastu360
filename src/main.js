@@ -162,7 +162,7 @@ function renderSelectedTool(type, container) {
           <div class="tfg-inputs">
             <div class="form-group">
               <label>Full Name (as pronounced) *</label>
-              <input type="text" id="toolNumName" placeholder="e.g. Acharya Pankaj Sharma" class="form-input" value="Anant Vastu" />
+              <input type="text" id="toolNumName" placeholder="e.g. Er. Pradeep Panwar" class="form-input" value="Anant Vastu" />
             </div>
             <div class="form-group">
               <label>Date of Birth *</label>

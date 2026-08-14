@@ -122,15 +122,15 @@ function renderHomePage() {
       <!-- Prominent Founder Spotlight in Hero -->
       <div class="hero-founder-spotlight">
         <div class="hfs-avatar-wrap">
-          <img src="/assets/founder_acharya_pankaj.jpg" alt="Acharya Pankaj Ji — Founder" class="hfs-avatar" />
+          <img src="/assets/founder_acharya_pankaj.jpg" alt="Er. Pradeep Panwar — Founder" class="hfs-avatar" />
           <span class="hfs-online-badge" title="Available for Consultation"></span>
         </div>
         <div class="hfs-info">
           <span class="hfs-tag"><i data-lucide="award"></i> FOUNDER & MASTER CONSULTANT</span>
-          <strong class="hfs-name">Acharya Pankaj Ji</strong>
+          <strong class="hfs-name">Er. Pradeep Panwar</strong>
           <span class="hfs-desc">10+ Years Vedic Vastu & Jyotish Specialist</span>
         </div>
-        <a href="#/book-consultation" class="hfs-cta-btn" title="Book 1-on-1 Consultation with Acharya Pankaj Ji">
+        <a href="#/book-consultation" class="hfs-cta-btn" title="Book 1-on-1 Consultation with Er. Pradeep Panwar">
           <i data-lucide="calendar"></i>
           <span>Consult</span>
         </a>
@@ -168,18 +168,14 @@ function renderHomePage() {
         <div class="trust-grid">
           <div class="trust-image-col">
             <div class="trust-image-frame">
-              <img src="/assets/founder_acharya_pankaj.jpg" alt="Acharya Pankaj Ji — Founder Anant Vastu Architect" class="trust-img" />
-              <div class="trust-experience-badge">
-                <span class="badge-num">Acharya Pankaj Ji</span>
-                <span class="badge-lbl">Founder & Lead Vastu Consultant • 10+ Years</span>
-              </div>
+              <img src="/assets/founder_acharya_pankaj.jpg" alt="Er. Pradeep Panwar — Founder Anant Vastu Architect" class="trust-img" />
             </div>
           </div>
           <div class="trust-content-col">
             <div class="section-tag"><i data-lucide="shield-check"></i> TRUSTED VASTU CONSULTANCY</div>
             <h2 class="section-title">Traditional Wisdom. Practical Guidance. Personalized Solutions.</h2>
             <p class="trust-intro">
-              <strong>Anant Vastu Architect</strong>, founded by <strong>Acharya Pankaj Ji</strong>, is a premier professional Vastu Shastra and Astrology consultancy headquartered in <strong>Khategaon, near Indore, Madhya Pradesh</strong>, serving clients across India and globally.
+              <strong>Anant Vastu Architect</strong>, founded by <strong>Er. Pradeep Panwar</strong>, is a premier professional Vastu Shastra and Astrology consultancy headquartered in <strong>Khategaon, near Indore, Madhya Pradesh</strong>, serving clients across India and globally.
             </p>
             <p class="text-muted">
               We bridge the profound principles of 5,000-year-old Vedic spatial architecture with contemporary lifestyle needs. Our signature approach emphasizes <strong>zero structural demolition</strong>, utilizing elemental color therapy, metal energy tapes, geopathic stress neutralization, and planetary Kundli alignment.

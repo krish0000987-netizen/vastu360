@@ -14,7 +14,7 @@ export const siteConfig = {
 export const heroSlidesData = [
   {
     id: 1,
-    title: "Scientific Vastu & Architectural Planning - Acharya Pankaj Ji",
+    title: "Scientific Vastu & Architectural Planning - Er. Pradeep Panwar",
     tagline: "BY ACHARYA PANKAJ JI — ANANT VASTU ARCHITECT",
     headline: "Scientific Vastu & Architectural Planning",
     subheading: "Modern architecture guided by 16-Zone Shakti Chakra energy alignment and Astro-Vastu analysis.",
@@ -28,7 +28,7 @@ export const heroSlidesData = [
       { icon: "compass", title: "16-Zone Energy Alignment", desc: "Scientific Shakti Chakra Directional Grid" },
       { icon: "layout", title: "Modern Architectural Design", desc: "Functional, Aesthetic & Sustainable Spaces" },
       { icon: "globe", title: "Astro-Vastu Analysis", desc: "Direction + Planets + Design Integration" },
-      { icon: "user-check", title: "Personalized by Acharya Pankaj Ji", desc: "Customized Non-Demolition Solutions" }
+      { icon: "user-check", title: "Personalized by Er. Pradeep Panwar", desc: "Customized Non-Demolition Solutions" }
     ]
   },
   {

@@ -7,7 +7,7 @@ export const siteConfig = {
   phone: "+91 82696 46419",
   phoneRaw: "918269646419",
   location: "Khategaon, near Indore, Madhya Pradesh, India",
-  email: "consult@anantvastuarchitect.com",
+  email: "aanantvastu@gmail.com / Pradeepanwar94@gmail.com",
   brandValues: "Traditional Wisdom. Practical Guidance. Personalized Solutions."
 };
 

@@ -1858,7 +1858,7 @@ function renderContactPage() {
                 <i data-lucide="mail" class="text-gold"></i>
                 <div>
                   <strong>Email Inquiries:</strong>
-                  <p><a href="mailto:consult@anantvastuarchitect.com">consult@anantvastuarchitect.com</a></p>
+                  <p><a href="mailto:aanantvastu@gmail.com">aanantvastu@gmail.com</a> / <a href="mailto:Pradeepanwar94@gmail.com">Pradeepanwar94@gmail.com</a></p>
                 </div>
               </div>
 

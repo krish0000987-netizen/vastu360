@@ -840,8 +840,9 @@ h1, h2, h3, h4, .font-cinzel {
 .trust-img {
   width: 100%;
   height: 420px;
-  object-fit: cover;
-  object-position: top center;
+  object-fit: contain;
+  object-position: center;
+  background: var(--bg-card);
 }
 
 .trust-experience-badge {
@@ -3576,9 +3577,10 @@ img {
   }
 
   .hero-clean-slide-img {
-    object-fit: cover !important;
+    object-fit: contain !important;
     height: 100% !important;
     width: 100% !important;
+    background: #000000;
   }
 
   .hero-founder-spotlight {

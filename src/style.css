@@ -3950,3 +3950,11 @@ img {
     padding: 10px 12px !important;
   }
 }
+
+/* Global mobile button flex-wrap */
+@media (max-width: 768px) {
+  .btn {
+    flex-wrap: wrap !important;
+    text-align: center !important;
+  }
+}

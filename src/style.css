@@ -3906,7 +3906,10 @@ img {
     padding: 10px 14px !important;
     white-space: normal !important;
     height: auto !important;
-  }
+  
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
 }
 
 @media (max-width: 480px) {
@@ -3927,5 +3930,8 @@ img {
   }
   .sidebar-action-card .btn {
     margin-top: 0 !important;
-  }
+  
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
 }

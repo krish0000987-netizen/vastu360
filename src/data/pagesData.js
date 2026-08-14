@@ -189,8 +189,8 @@ export const coursesData = [
   {
     id: "astro-consultant",
     title: "ASTRO CONSULTANT",
-    price: "₹21,000",
-    rawPrice: 21000,
+    price: "₹2,100",
+    rawPrice: 2100,
     subtitle: "Learn the Fundamentals of Vedic Astrology",
     duration: "4 Weeks (Intensive Foundation)",
     badge: "Foundation Astro Mastery",
@@ -246,7 +246,7 @@ export const pricingPlans = [
   {
     category: "Astro Guidance",
     title: "Vedic Astrology Consultation",
-    price: "₹21,000",
+    price: "₹2,100",
     desc: "Personalized Kundli analysis covering career, marriage, finance and remedies.",
     features: [
       "Complete Birth Chart (Lagna & Navamsha) Reading",

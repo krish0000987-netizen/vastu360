@@ -838,7 +838,7 @@ function renderElitePage() {
         <h1 class="page-title">Anant Vastu Professional Program</h1>
         <p class="page-subtitle">Advanced Professional Mentorship for Aspiring Vastu & Astrology Practitioners.</p>
         <div class="subpage-hero-visual">
-          <img src="/assets/vastu_office.jpg" alt="Executive Vastu Mentorship Studio" />
+          <img src="/assets/elite_program_new.jpg" alt="Expert Astrologer Pinki Panwar Mentorship Studio" />
         </div>
       </div>
     </div>

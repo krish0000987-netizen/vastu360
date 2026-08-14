@@ -1227,7 +1227,7 @@ h1, h2, h3, h4, .font-cinzel {
 
 .page-breadcrumb {
   font-size: 0.85rem;
-  color: var(--text-muted);
+  color: rgba(255, 255, 255, 0.7);
   margin-bottom: 12px;
 }
 
@@ -1239,11 +1239,12 @@ h1, h2, h3, h4, .font-cinzel {
   font-size: 2.5rem;
   line-height: 1.2;
   margin-bottom: 10px;
+  color: #ffffff;
 }
 
 .page-subtitle {
   font-size: 1.1rem;
-  color: var(--text-muted);
+  color: rgba(255, 255, 255, 0.85);
   max-width: 760px;
 }
 
